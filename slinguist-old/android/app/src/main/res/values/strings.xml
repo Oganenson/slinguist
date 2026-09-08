@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SLinguist</string>
+    <string name="home_label">Home</string>
+    <string name="review_label">Practice</string>
+    <string name="words_label">Words</string>
+    <string name="profile_label">Profile</string>
+    <string name="settings_label">Settings</string>
+    <string name="create_card_title">Create Card</string>
+    <string name="review_session">Review Session</string>
+    <string name="phase1_placeholder">Screen scaffold. Content arrives in later phases.</string>
+</resources>

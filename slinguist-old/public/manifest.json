@@ -1,0 +1,19 @@
+{
+  "short_name": "SLinguist",
+  "name": "SLinguist - Language Master",
+  "description": "Master your vocabulary with beautiful flashcards, streaks, and dark mode for night learning.",
+  "icons": [
+    {
+      "src": "/src/assets/images/app_icon_1779372070738.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0a0a0c",
+  "theme_color": "#630ed4",
+  "display": "standalone",
+  "orientation": "portrait",
+  "status_bar": "black-translucent"
+}

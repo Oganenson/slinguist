@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SLinguist</string>
+    <string name="home_label">Главное</string>
+    <string name="review_label">Практика</string>
+    <string name="words_label">Слова</string>
+    <string name="profile_label">Профиль</string>
+    <string name="settings_label">Настройки</string>
+    <string name="create_card_title">Создание карточки</string>
+    <string name="review_session">Сессия повторения</string>
+    <string name="phase1_placeholder">Каркас экрана. Содержимое появится на следующих этапах.</string>
+</resources>
